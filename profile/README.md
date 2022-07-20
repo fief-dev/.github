@@ -10,7 +10,7 @@
 
 * Official website: [https://www.fief.dev](https://www.fief.dev)
 * Documentation: [https://docs.fief.dev](https://docs.fief.dev)
-* Discussions: [https://github.com/fief-dev/fief/discussions](https://github.com/fief-dev/fief/discussions)
+* Discussions: [https://github.com/orgs/fief-dev/discussions](https://github.com/orgs/fief-dev/discussions)
 
 ## Contributing
 
