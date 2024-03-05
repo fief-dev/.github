@@ -21,6 +21,10 @@
 * Documentation: [https://docs.fief.dev](https://docs.fief.dev)
 * Discussions: [https://github.com/orgs/fief-dev/discussions](https://github.com/orgs/fief-dev/discussions)
 
+## Support us
+
+<a href="https://polar.sh/fief-dev/subscriptions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/tiers.svg?org=fief-dev&darkmode"><img alt="Subscription Tiers on Polar" src="https://polar.sh/embed/tiers.svg?org=fief-dev"></picture></a>
+
 ## Contributing
 
 All contributions to improve the project are welcome! In particular, bug and documentation fixes are really appreciated.
